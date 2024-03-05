@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: var(--fontcolor);
+}
+
+:root{
+    --primary:black;
+    --fontcolor:#fff;
+}
+
+body{
+    background-color: black !important;
+}
+
+.content_body{
+    border: 1px solid #fff;
+}
+
+.input_data{
+    padding: 10px;
+    color: black !important;
+}
+
+#drop{
+    padding: 10px;
+    width: 100%;
+    color: var(--primary);
+}
+
+option{
+    color: black !important;
+}
